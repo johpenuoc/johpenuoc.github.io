@@ -6,3 +6,5 @@ Hello! I'm John, a current undergraduate CS & Electronic Engineering student. Th
 ---
 
 ## Academic Journal
+
+---
